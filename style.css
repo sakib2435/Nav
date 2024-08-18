@@ -36,3 +36,8 @@ nav>ul>li>a{
     text-decoration: none;
     color: black;
 }
+.section-part>img{
+    width: 1000px;
+    height: 600px;
+    border-radius: 5px;
+}
